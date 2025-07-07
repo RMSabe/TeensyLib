@@ -1,2 +1,5 @@
 # TeensyLib
-Some APIs for the Teensy boards with the Arduino IDE.
+Some libraries for the Teensy boards with the Arduino IDE.
+
+Author: Rafael Sabe
+Email: rafaelmsabe@gmail.com
